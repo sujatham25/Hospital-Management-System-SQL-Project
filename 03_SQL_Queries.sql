@@ -152,7 +152,6 @@ SELECT DoctorID
 FROM Appointments
 WHERE AppointmentDate >= CURDATE() - INTERVAL 30 DAY
 );
--- #Advanced Level Queries# --
 -- 31>Find the top 3 doctors with the most completed appointments.
 SELECT d.Name, COUNT(a.AppointmentID) AS TotalCompletedAppointments
 FROM Doctors d
