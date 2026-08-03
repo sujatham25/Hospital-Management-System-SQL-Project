@@ -15,8 +15,8 @@ Hospital-Management-System-SQL-Project
 ├── 02_Insert_Data.sql
 ├── 03_SQL_Queries.sql
 ├── Hospital_ER_Diagram.png
-├── SQL_Query_Outputs.pdf
-└── README.md
+├── README.md
+└── SQL_Query_Outputs.pdf
 ```
 
 ---
