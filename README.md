@@ -74,7 +74,7 @@ The tables are connected using **Primary Keys** and **Foreign Keys** to maintain
 
 ## 🗺️ ER Diagram
 
-![ER Diagram](Hospital_ER_Diagram.png)
+
 
 ---
 
